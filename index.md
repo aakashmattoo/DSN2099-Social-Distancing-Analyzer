@@ -9,8 +9,7 @@ I am Aakash Mattoo. I have mantained this repository on the behalf of my team. W
 
 # Link to Repository
 The is the link to repository including all the neccesary files, codes.
-<a href="https://github.com/aakashmattoo/DSN2099-Social-Distancing-Analyzer" target="_blank"><br>
-	
+[Click here to visit repository](https://github.com/aakashmattoo/DSN2099-Social-Distancing-Analyzer)	
 
 
 <p align="center">
