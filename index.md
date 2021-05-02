@@ -81,7 +81,7 @@ The below is an abstract PDF from the content of PPT.
 Having trouble with downloading PDFs/opening LINKS. Contact me through WhatsApp or VIT-B mail <br> ```aakash.mattoo2019@vitbhopal.ac.in```.
 	
 <hr>
-<img src = "header.png" alt="WELCOME">
+<img src = "footer.png" alt="WELCOME">
 
 
 
