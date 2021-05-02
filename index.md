@@ -7,9 +7,11 @@ I am Aakash Mattoo. I have mantained this repository on the behalf of my team. W
 ```
 <hr>
 
-# Link to Repository
-The is the link to repository including all the neccesary files, codes.
-[Click here to visit repository](https://github.com/aakashmattoo/DSN2099-Social-Distancing-Analyzer)	
+# Link to all the FILES
+The is the link to drive which includes all the neccesary files, codes.
+[ Click here to visit the FOLDER](
+https://drive.google.com/drive/folders/1Fzkt4rbPic4rmEOkM_Sxeb7PhnCfW-Qh?usp=sharing
+)	
 
 
 <p align="center">
@@ -26,8 +28,6 @@ The is our presentation(PDF format).
 <p align="center">
   <img width="100" src="dot1.png">
 </p>
-
-
 
 # Project Report
 The below is an abstract PDF from the content of PPT. 
