@@ -9,8 +9,7 @@ I am Aakash Mattoo. I have mantained this repository on the behalf of my team. W
 
 # Link to Repository
 The is the link to repository including all the neccesary files, codes.
-<a href="SERVICE-DESIGN-ppt.pdf" target="_blank"><br>
-	<button>content-PPT</button> </a> 
+<a href="https://github.com/aakashmattoo/DSN2099-Social-Distancing-Analyzer" target="_blank"><br>
 	
 
 
@@ -21,7 +20,7 @@ The is the link to repository including all the neccesary files, codes.
 
 # PowerPoint
 The is our presentation(PDF format).
-<a href="Team_16 - DSN2099 - De-Socialize .pdf" target="_blank">
+<a href="Team_16 - DSN2099 - De-Socialize .pdf" target="_blank"><br>
 	<button>PowerPoint</button> </a> 
 
 
