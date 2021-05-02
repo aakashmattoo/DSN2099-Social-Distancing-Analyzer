@@ -32,7 +32,7 @@ The is our presentation(PDF format).
 # Project Report
 The below is an abstract PDF from the content of PPT. 
 <br>
-<a href="Team 16 ~Project Report~.pdf" target="_blank">
+<a href="Report.pdf" target="_blank">
 	<button>Report</button> </a> 
 
 
